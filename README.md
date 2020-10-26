@@ -1,6 +1,6 @@
 # transaction_app_flutter
 
-A new Flutter project.
+A Flutter project to track daily expenses!
 
 ## Getting Started
 
